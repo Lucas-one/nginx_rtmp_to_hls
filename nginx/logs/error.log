@@ -1,0 +1,591 @@
+2020/03/28 17:39:08 [notice] 6174#0: signal process started
+2020/03/28 18:42:25 [notice] 8811#0: signal process started
+2020/03/29 15:31:01 [notice] 3507#0: signal process started
+2020/03/29 15:34:59 [notice] 3703#0: signal process started
+2020/03/29 16:19:36 [notice] 7521#0: signal process started
+2020/03/29 23:18:32 [notice] 11379#0: signal process started
+2020/03/29 23:18:32 [error] 11379#0: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2020/03/29 23:18:40 [emerg] 11381#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/03/29 23:18:40 [notice] 11381#0: try again to bind() after 500ms
+2020/03/29 23:18:40 [emerg] 11381#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/03/29 23:18:40 [notice] 11381#0: try again to bind() after 500ms
+2020/03/29 23:18:40 [emerg] 11381#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/03/29 23:18:40 [notice] 11381#0: try again to bind() after 500ms
+2020/03/29 23:18:40 [emerg] 11381#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/03/29 23:18:40 [notice] 11381#0: try again to bind() after 500ms
+2020/03/29 23:18:40 [emerg] 11381#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/03/29 23:18:40 [notice] 11381#0: try again to bind() after 500ms
+2020/03/29 23:18:40 [emerg] 11381#0: still could not bind()
+2020/03/29 23:18:49 [notice] 11383#0: signal process started
+2020/03/29 23:18:49 [error] 11383#0: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2020/03/29 23:18:52 [notice] 11385#0: signal process started
+2020/03/29 23:18:52 [error] 11385#0: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2020/03/29 23:22:16 [notice] 11406#0: signal process started
+2020/03/29 23:22:16 [error] 11406#0: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2020/03/29 23:24:24 [notice] 11461#0: signal process started
+2020/03/29 23:24:42 [notice] 11463#0: using the "epoll" event method
+2020/03/29 23:24:42 [notice] 11463#0: nginx/1.14.2
+2020/03/29 23:24:42 [notice] 11463#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/03/29 23:24:42 [notice] 11463#0: OS: Linux 5.3.0-42-generic
+2020/03/29 23:24:42 [notice] 11463#0: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2020/03/29 23:24:42 [notice] 11464#0: start worker processes
+2020/03/29 23:24:42 [notice] 11464#0: start worker process 11465
+2020/03/29 23:24:56 [error] 11465#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2020/03/29 23:24:56 [error] 11465#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2020/03/29 23:25:34 [notice] 11480#0: signal process started
+2020/03/29 23:25:34 [notice] 11464#0: signal 15 (SIGTERM) received from 11480, exiting
+2020/03/29 23:25:34 [notice] 11465#0: exiting
+2020/03/29 23:25:34 [notice] 11465#0: exit
+2020/03/29 23:25:34 [notice] 11464#0: signal 17 (SIGCHLD) received from 11465
+2020/03/29 23:25:34 [notice] 11464#0: worker process 11465 exited with code 0
+2020/03/29 23:25:34 [notice] 11464#0: exit
+2020/03/29 23:25:47 [notice] 11484#0: using the "epoll" event method
+2020/03/29 23:25:47 [notice] 11484#0: nginx/1.14.2
+2020/03/29 23:25:47 [notice] 11484#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/03/29 23:25:47 [notice] 11484#0: OS: Linux 5.3.0-42-generic
+2020/03/29 23:25:47 [notice] 11484#0: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2020/03/29 23:25:47 [notice] 11485#0: start worker processes
+2020/03/29 23:25:47 [notice] 11485#0: start worker process 11486
+2020/03/29 23:26:16 [error] 11486#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2020/03/29 23:30:44 [notice] 11507#0: signal process started
+2020/03/29 23:30:44 [notice] 11485#0: signal 15 (SIGTERM) received from 11507, exiting
+2020/03/29 23:30:44 [notice] 11486#0: exiting
+2020/03/29 23:30:44 [notice] 11486#0: exit
+2020/03/29 23:30:44 [notice] 11485#0: signal 17 (SIGCHLD) received from 11486
+2020/03/29 23:30:44 [notice] 11485#0: worker process 11486 exited with code 0
+2020/03/29 23:30:44 [notice] 11485#0: exit
+2020/03/29 23:30:49 [notice] 11509#0: using the "epoll" event method
+2020/03/29 23:30:49 [notice] 11509#0: nginx/1.14.2
+2020/03/29 23:30:49 [notice] 11509#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/03/29 23:30:49 [notice] 11509#0: OS: Linux 5.3.0-42-generic
+2020/03/29 23:30:49 [notice] 11509#0: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2020/03/29 23:30:49 [notice] 11510#0: start worker processes
+2020/03/29 23:30:49 [notice] 11510#0: start worker process 11511
+2020/03/29 23:51:39 [notice] 11587#0: signal process started
+2020/03/29 23:51:39 [notice] 11510#0: signal 15 (SIGTERM) received from 11587, exiting
+2020/03/29 23:51:39 [notice] 11511#0: exiting
+2020/03/29 23:51:39 [notice] 11511#0: exit
+2020/03/29 23:51:39 [notice] 11510#0: signal 17 (SIGCHLD) received from 11511
+2020/03/29 23:51:39 [notice] 11510#0: worker process 11511 exited with code 0
+2020/03/29 23:51:39 [notice] 11510#0: exit
+2020/03/29 23:51:46 [notice] 11589#0: using the "epoll" event method
+2020/03/29 23:51:46 [notice] 11589#0: nginx/1.14.2
+2020/03/29 23:51:46 [notice] 11589#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/03/29 23:51:46 [notice] 11589#0: OS: Linux 5.3.0-42-generic
+2020/03/29 23:51:46 [notice] 11589#0: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2020/03/29 23:51:46 [notice] 11590#0: start worker processes
+2020/03/29 23:51:46 [notice] 11590#0: start worker process 11591
+2020/03/29 23:51:46 [notice] 11590#0: start cache manager process 11592
+2020/03/29 23:53:50 [info] 11591#0: *1 client connected '127.0.0.1'
+2020/03/29 23:53:50 [info] 11591#0: *1 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 publish: name='teststream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 exec: terminating child 11600, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [info] 11591#0: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:53:50 [notice] 11591#0: signal 17 (SIGCHLD) received from 11600
+2020/03/29 23:53:50 [alert] 11591#0: unknown process 11600 exited on signal 9
+2020/03/29 23:56:22 [info] 11591#0: *2 client connected '127.0.0.1'
+2020/03/29 23:56:22 [info] 11591#0: *2 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *2 publish: name='mystream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *2 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *3 client connected '127.0.0.1'
+2020/03/29 23:56:22 [info] 11591#0: *3 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:22 [info] 11591#0: *3 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *4 client connected '127.0.0.1'
+2020/03/29 23:56:25 [info] 11591#0: *4 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *4 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *5 client connected '127.0.0.1'
+2020/03/29 23:56:25 [info] 11591#0: *5 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *5 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *6 client connected '127.0.0.1'
+2020/03/29 23:56:25 [info] 11591#0: *6 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *6 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:25 [info] 11591#0: *6 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *2 exec: terminating child 11647, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/29 23:56:28 [alert] 11591#0: unknown process 11647 exited on signal 9
+2020/03/29 23:56:28 [info] 11591#0: *3 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:56:28 [info] 11591#0: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *7 client connected '127.0.0.1'
+2020/03/29 23:57:04 [info] 11591#0: *7 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *7 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *7 publish: name='mystream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *7 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *8 client connected '127.0.0.1'
+2020/03/29 23:57:04 [info] 11591#0: *8 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *8 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:04 [info] 11591#0: *8 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *9 client connected '127.0.0.1'
+2020/03/29 23:57:07 [info] 11591#0: *9 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *9 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *9 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *10 client connected '127.0.0.1'
+2020/03/29 23:57:07 [info] 11591#0: *10 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *10 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *10 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *11 client connected '127.0.0.1'
+2020/03/29 23:57:07 [info] 11591#0: *11 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *11 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:07 [info] 11591#0: *11 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *7 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *7 exec: terminating child 11723, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *7 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *7 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *11 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *11 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/29 23:57:10 [alert] 11591#0: unknown process 11723 exited on signal 9
+2020/03/29 23:57:10 [info] 11591#0: *10 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *10 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *9 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *9 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *8 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *8 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:10 [info] 11591#0: *8 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *12 client connected '127.0.0.1'
+2020/03/29 23:57:55 [info] 11591#0: *12 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *12 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *12 publish: name='mystream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *12 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *13 client connected '127.0.0.1'
+2020/03/29 23:57:55 [info] 11591#0: *13 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *13 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:55 [info] 11591#0: *13 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *14 client connected '127.0.0.1'
+2020/03/29 23:57:59 [info] 11591#0: *14 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *14 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *14 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *15 client connected '127.0.0.1'
+2020/03/29 23:57:59 [info] 11591#0: *15 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *15 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *15 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *16 client connected '127.0.0.1'
+2020/03/29 23:57:59 [info] 11591#0: *16 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *16 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:57:59 [info] 11591#0: *16 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *12 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *12 exec: terminating child 11854, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *12 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *12 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *16 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *16 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/29 23:58:02 [alert] 11591#0: unknown process 11854 exited on signal 9
+2020/03/29 23:58:02 [info] 11591#0: *13 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *15 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *15 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *14 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *14 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *13 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/29 23:58:02 [info] 11591#0: *13 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *17 client connected '127.0.0.1'
+2020/03/30 00:05:03 [info] 11591#0: *17 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *17 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *17 publish: name='mystream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *17 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *18 client connected '127.0.0.1'
+2020/03/30 00:05:03 [info] 11591#0: *18 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *18 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:03 [info] 11591#0: *18 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *19 client connected '127.0.0.1'
+2020/03/30 00:05:07 [info] 11591#0: *19 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *19 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *19 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *20 client connected '127.0.0.1'
+2020/03/30 00:05:07 [info] 11591#0: *20 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *20 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *20 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *21 client connected '127.0.0.1'
+2020/03/30 00:05:07 [info] 11591#0: *21 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *21 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:05:07 [info] 11591#0: *21 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/30 00:07:00 [alert] 11591#0: unknown process 12160 exited on signal 9
+2020/03/30 00:07:00 [info] 11591#0: *17 exec: child 12160 exited; ignoring, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *17 exec: terminating child 12160, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *18 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *21 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *21 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *20 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *20 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *19 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *19 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *18 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:00 [info] 11591#0: *18 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:05 [info] 11591#0: *17 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:05 [info] 11591#0: *22 client connected '127.0.0.1'
+2020/03/30 00:07:05 [info] 11591#0: *22 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:05 [info] 11591#0: *22 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:05 [info] 11591#0: *22 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *23 client connected '127.0.0.1'
+2020/03/30 00:07:07 [info] 11591#0: *23 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *23 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *23 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *24 client connected '127.0.0.1'
+2020/03/30 00:07:07 [info] 11591#0: *24 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *24 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *24 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *25 client connected '127.0.0.1'
+2020/03/30 00:07:07 [info] 11591#0: *25 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *25 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:07:07 [info] 11591#0: *25 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/30 00:08:02 [alert] 11591#0: unknown process 12337 exited on signal 9
+2020/03/30 00:08:02 [info] 11591#0: *17 exec: child 12337 exited; ignoring, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *17 exec: terminating child 12337, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *22 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *25 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *25 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *24 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *24 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *23 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *23 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *22 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:02 [info] 11591#0: *22 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:07 [info] 11591#0: *17 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:07 [info] 11591#0: *26 client connected '127.0.0.1'
+2020/03/30 00:08:07 [info] 11591#0: *26 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:07 [info] 11591#0: *26 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:07 [info] 11591#0: *26 play: name='mystream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *27 client connected '127.0.0.1'
+2020/03/30 00:08:09 [info] 11591#0: *27 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *27 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *27 publish: name='mystream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *28 client connected '127.0.0.1'
+2020/03/30 00:08:09 [info] 11591#0: *28 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *28 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *28 publish: name='mystream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *29 client connected '127.0.0.1'
+2020/03/30 00:08:09 [info] 11591#0: *29 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *29 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:09 [info] 11591#0: *29 publish: name='mystream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *17 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *17 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *17 exec: terminating child 12425, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *29 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *29 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *28 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *28 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *27 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *27 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *26 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *26 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [info] 11591#0: *26 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:08:10 [notice] 11591#0: signal 17 (SIGCHLD) received
+2020/03/30 00:08:10 [alert] 11591#0: unknown process 12425 exited on signal 9
+2020/03/30 00:28:23 [emerg] 12736#0: "rtmp" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:62
+2020/03/30 00:30:31 [notice] 12767#0: signal process started
+2020/03/30 00:30:31 [notice] 11590#0: signal 15 (SIGTERM) received from 12767, exiting
+2020/03/30 00:30:31 [notice] 11592#0: exiting
+2020/03/30 00:30:31 [notice] 11591#0: exiting
+2020/03/30 00:30:31 [notice] 11590#0: signal 17 (SIGCHLD) received from 11592
+2020/03/30 00:30:31 [notice] 11590#0: cache manager process 11592 exited with code 0
+2020/03/30 00:30:31 [notice] 11590#0: signal 29 (SIGIO) received
+2020/03/30 00:30:31 [notice] 11591#0: exit
+2020/03/30 00:30:31 [notice] 11590#0: signal 17 (SIGCHLD) received from 11591
+2020/03/30 00:30:31 [notice] 11590#0: worker process 11591 exited with code 0
+2020/03/30 00:30:31 [notice] 11590#0: exit
+2020/03/30 00:30:33 [notice] 12769#0: using the "epoll" event method
+2020/03/30 00:30:33 [notice] 12769#0: nginx/1.14.2
+2020/03/30 00:30:33 [notice] 12769#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/03/30 00:30:33 [notice] 12769#0: OS: Linux 5.3.0-42-generic
+2020/03/30 00:30:33 [notice] 12769#0: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2020/03/30 00:30:33 [notice] 12770#0: start worker processes
+2020/03/30 00:30:33 [notice] 12770#0: start worker process 12771
+2020/03/30 00:30:33 [notice] 12770#0: start cache manager process 12772
+2020/03/30 00:31:47 [info] 12771#0: *1 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/03/30 00:31:57 [info] 12771#0: *2 client connected '127.0.0.1'
+2020/03/30 00:31:57 [info] 12771#0: *2 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *2 publish: name='plzstream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *2 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *3 client connected '127.0.0.1'
+2020/03/30 00:31:57 [info] 12771#0: *3 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:57 [info] 12771#0: *3 play: name='plzstream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *4 client connected '127.0.0.1'
+2020/03/30 00:31:59 [info] 12771#0: *4 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *4 publish: name='plzstream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *5 client connected '127.0.0.1'
+2020/03/30 00:31:59 [info] 12771#0: *5 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *5 publish: name='plzstream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *6 client connected '127.0.0.1'
+2020/03/30 00:31:59 [info] 12771#0: *6 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *6 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:31:59 [info] 12771#0: *6 publish: name='plzstream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:00 [error] 12771#0: *7 open() "/tmp/hls/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:32:00 [error] 12771#0: *7 open() "/tmp/hls/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:32:06 [notice] 12771#0: signal 17 (SIGCHLD) received
+2020/03/30 00:32:06 [alert] 12771#0: unknown process 12788 exited on signal 9
+2020/03/30 00:32:06 [info] 12771#0: *2 exec: child 12788 exited; ignoring, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *2 exec: terminating child 12788, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *3 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:06 [info] 12771#0: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:11 [info] 12771#0: *2 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:12 [info] 12771#0: *8 client connected '127.0.0.1'
+2020/03/30 00:32:12 [info] 12771#0: *8 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:12 [info] 12771#0: *8 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:12 [info] 12771#0: *8 play: name='plzstream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *9 client connected '127.0.0.1'
+2020/03/30 00:32:13 [info] 12771#0: *9 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *9 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *9 publish: name='plzstream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *10 client connected '127.0.0.1'
+2020/03/30 00:32:13 [info] 12771#0: *10 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *10 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *10 publish: name='plzstream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *11 client connected '127.0.0.1'
+2020/03/30 00:32:13 [info] 12771#0: *11 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *11 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:13 [info] 12771#0: *11 publish: name='plzstream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [notice] 12771#0: signal 17 (SIGCHLD) received from 12861
+2020/03/30 00:32:45 [alert] 12771#0: unknown process 12861 exited on signal 9
+2020/03/30 00:32:45 [info] 12771#0: *2 exec: child 12861 exited; ignoring, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *2 exec: terminating child 12861, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *8 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *11 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *11 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *10 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *10 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *9 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *9 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *8 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:45 [info] 12771#0: *8 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:47 [error] 12771#0: *7 open() "/tmp/hls/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:32:50 [info] 12771#0: *2 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:51 [info] 12771#0: *12 client connected '127.0.0.1'
+2020/03/30 00:32:51 [info] 12771#0: *12 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:51 [info] 12771#0: *12 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:51 [info] 12771#0: *12 play: name='plzstream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *13 client connected '127.0.0.1'
+2020/03/30 00:32:52 [info] 12771#0: *13 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *13 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *13 publish: name='plzstream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *14 client connected '127.0.0.1'
+2020/03/30 00:32:52 [info] 12771#0: *14 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *14 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *14 publish: name='plzstream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *15 client connected '127.0.0.1'
+2020/03/30 00:32:52 [info] 12771#0: *15 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *15 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:52 [info] 12771#0: *15 publish: name='plzstream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:32:56 [error] 12771#0: *7 open() "/tmp/hls/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:33:39 [info] 12771#0: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *2 exec: terminating child 12914, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [notice] 12771#0: signal 17 (SIGCHLD) received
+2020/03/30 00:33:39 [alert] 12771#0: unknown process 12914 exited on signal 9
+2020/03/30 00:33:39 [info] 12771#0: *12 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *14 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *14 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *15 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *15 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *13 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *13 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *12 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:33:39 [info] 12771#0: *12 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:34:19 [error] 12771#0: *16 open() "/tmp/hls/hls" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:34:21 [error] 12771#0: *16 open() "/tmp/hls/hls" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:34:26 [error] 12771#0: *16 open() "/tmp/hls/hls/plzstream" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:34:31 [error] 12771#0: *16 open() "/tmp/hls/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:34:41 [error] 12771#0: *16 open() "/tmp/hls/hls/plzstream" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hls/plzstream HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:34:45 [error] 12771#0: *16 open() "/tmp/hls/hl" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hl HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:35:25 [error] 12771#0: *16 open() "/tmp/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:35:39 [error] 12771#0: *16 open() "/tmp/hls/tmp/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /tmp/hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:36:20 [info] 12771#0: *17 client connected '127.0.0.1'
+2020/03/30 00:36:20 [info] 12771#0: *17 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *17 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *17 publish: name='plzstream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *17 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *18 client connected '127.0.0.1'
+2020/03/30 00:36:20 [info] 12771#0: *18 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *18 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:20 [info] 12771#0: *18 play: name='plzstream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *19 client connected '127.0.0.1'
+2020/03/30 00:36:22 [info] 12771#0: *19 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *19 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *19 publish: name='plzstream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *20 client connected '127.0.0.1'
+2020/03/30 00:36:22 [info] 12771#0: *20 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *20 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *20 publish: name='plzstream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *21 client connected '127.0.0.1'
+2020/03/30 00:36:22 [info] 12771#0: *21 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *21 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:22 [info] 12771#0: *21 publish: name='plzstream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:36:34 [error] 12771#0: *16 open() "/tmp/hls/tmp/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /tmp/hls/plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:36:43 [error] 12771#0: *16 open() "/tmp/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET //plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:36:47 [error] 12771#0: *16 open() "/tmp/hls/plzstream.m3u8" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /plzstream.m3u8 HTTP/1.1", host: "localhost:8080"
+2020/03/30 00:39:09 [info] 12771#0: *17 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *17 exec: terminating child 12964, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *17 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *17 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *21 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *21 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *20 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *20 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *18 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *19 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *19 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [notice] 12771#0: signal 17 (SIGCHLD) received
+2020/03/30 00:39:09 [alert] 12771#0: unknown process 12964 exited on signal 9
+2020/03/30 00:39:09 [info] 12771#0: *18 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:39:09 [info] 12771#0: *18 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *22 client connected '127.0.0.1'
+2020/03/30 00:40:10 [info] 12771#0: *22 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *22 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *22 publish: name='plzstream' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *22 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *23 client connected '127.0.0.1'
+2020/03/30 00:40:10 [info] 12771#0: *23 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *23 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:10 [info] 12771#0: *23 play: name='plzstream' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *24 client connected '127.0.0.1'
+2020/03/30 00:40:12 [info] 12771#0: *24 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *24 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *24 publish: name='plzstream_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *25 client connected '127.0.0.1'
+2020/03/30 00:40:12 [info] 12771#0: *25 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *25 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *25 publish: name='plzstream_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *26 client connected '127.0.0.1'
+2020/03/30 00:40:12 [info] 12771#0: *26 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *26 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:40:12 [info] 12771#0: *26 publish: name='plzstream_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *22 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *22 exec: terminating child 13055, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *22 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *22 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *26 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [notice] 12771#0: signal 17 (SIGCHLD) received
+2020/03/30 00:45:15 [alert] 12771#0: unknown process 13055 exited on signal 9
+2020/03/30 00:45:15 [info] 12771#0: *26 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *23 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *25 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *25 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *24 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *24 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *23 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:45:15 [info] 12771#0: *23 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/30 00:53:01 [notice] 12771#0: signal 15 (SIGTERM) received from 1, exiting
+2020/03/30 00:53:01 [notice] 12771#0: signal 1 (SIGHUP) received from 1, ignoring
+2020/03/30 00:53:01 [info] 12771#0: epoll_wait() failed (4: Interrupted system call)
+2020/03/30 00:53:01 [notice] 12771#0: exiting
+2020/03/30 00:53:01 [notice] 12772#0: signal 15 (SIGTERM) received from 1, exiting
+2020/03/30 00:53:01 [notice] 12772#0: signal 1 (SIGHUP) received from 1, ignoring
+2020/03/30 00:53:01 [info] 12772#0: epoll_wait() failed (4: Interrupted system call)
+2020/03/30 00:53:01 [notice] 12772#0: exiting
+2020/03/30 00:53:01 [notice] 12770#0: signal 15 (SIGTERM) received from 1, exiting
+2020/03/30 00:53:01 [notice] 12770#0: signal 1 (SIGHUP) received from 1, reconfiguring
+2020/03/30 00:53:01 [notice] 12771#0: exit
+2020/03/30 00:53:01 [notice] 12770#0: signal 14 (SIGALRM) received
+2020/03/30 00:53:01 [notice] 12770#0: signal 17 (SIGCHLD) received from 12772
+2020/03/30 00:53:01 [notice] 12770#0: cache manager process 12772 exited with code 0
+2020/03/30 00:53:01 [notice] 12770#0: signal 29 (SIGIO) received
+2020/03/30 00:53:01 [notice] 12770#0: signal 17 (SIGCHLD) received from 12771
+2020/03/30 00:53:01 [notice] 12770#0: worker process 12771 exited with code 0
+2020/03/30 00:53:01 [notice] 12770#0: exit
+2020/04/01 01:05:21 [notice] 2750#0: using the "epoll" event method
+2020/04/01 01:05:21 [notice] 2750#0: nginx/1.14.2
+2020/04/01 01:05:21 [notice] 2750#0: built by gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+2020/04/01 01:05:21 [notice] 2750#0: OS: Linux 5.3.0-42-generic
+2020/04/01 01:05:21 [notice] 2750#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2020/04/01 01:05:21 [notice] 2751#0: start worker processes
+2020/04/01 01:05:21 [notice] 2751#0: start worker process 2752
+2020/04/01 01:05:21 [notice] 2751#0: start cache manager process 2753
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/04/01 01:05:23 [notice] 2755#0: try again to bind() after 500ms
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/04/01 01:05:23 [notice] 2755#0: try again to bind() after 500ms
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/04/01 01:05:23 [notice] 2755#0: try again to bind() after 500ms
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/04/01 01:05:23 [notice] 2755#0: try again to bind() after 500ms
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2020/04/01 01:05:23 [emerg] 2755#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2020/04/01 01:05:23 [notice] 2755#0: try again to bind() after 500ms
+2020/04/01 01:05:23 [emerg] 2755#0: still could not bind()
+2020/04/01 01:11:06 [info] 2752#0: *1 client connected '127.0.0.1'
+2020/04/01 01:11:06 [info] 2752#0: *1 connect: app='src' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *1 publish: name='test0401' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *1 exec: starting managed child 'ffmpeg', client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *2 client connected '127.0.0.1'
+2020/04/01 01:11:06 [info] 2752#0: *2 connect: app='src' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/src' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:06 [info] 2752#0: *2 play: name='test0401' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *3 client connected '127.0.0.1'
+2020/04/01 01:11:08 [info] 2752#0: *3 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *3 publish: name='test0401_low' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *4 client connected '127.0.0.1'
+2020/04/01 01:11:08 [info] 2752#0: *4 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *4 publish: name='test0401_mid' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *5 client connected '127.0.0.1'
+2020/04/01 01:11:08 [info] 2752#0: *5 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; Lavf57.83' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:11:08 [info] 2752#0: *5 publish: name='test0401_hi' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *1 exec: terminating child 14031, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [notice] 2752#0: signal 17 (SIGCHLD) received
+2020/04/01 01:12:55 [alert] 2752#0: unknown process 14031 exited on signal 9
+2020/04/01 01:12:55 [info] 2752#0: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *2 recv() failed (104: Connection reset by peer), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:12:55 [info] 2752#0: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/01 01:14:21 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:15:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:16:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:17:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:18:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:19:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:20:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:21:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:22:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:23:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:24:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:25:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:26:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:27:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:28:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:29:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
+2020/04/01 01:30:22 [error] 2753#0: hls: cleanup rmdir() failed on '/tmp/hls/test0401_hi' (39: Directory not empty)
